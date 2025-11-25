@@ -69,7 +69,7 @@ Em formação na área de Desenvolvimento de Sistemas e estou construindo minha 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IagoMonfredini&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoMonfredini&show_icons=true&theme=transparent)" 
   />
 
 </p>
