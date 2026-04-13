@@ -4,6 +4,8 @@
 
 Em formação na área de Desenvolvimento de Sistemas e estou construindo minha trajetória no mundo da tecnologia. Tenho interesse especial em programação, bancos de dados e desenvolvimento web, com experiência adquirida ao longo da minha formação. Meu objetivo é aplicar na prática o que venho aprendendo em Python e HTML, enquanto continuo evoluindo e me desafiando em novos projetos.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-monfredini-6480692aa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/monfredini07_/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/iago.monfredini)
@@ -44,7 +46,7 @@ Em formação na área de Desenvolvimento de Sistemas e estou construindo minha 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-  <img 
+<img 
     align="left" 
     alt="SQL" 
     title="SQL"
@@ -52,5 +54,6 @@ Em formação na área de Desenvolvimento de Sistemas e estou construindo minha 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" 
 />
+
 <br/>
 <br/>
