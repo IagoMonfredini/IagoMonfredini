@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Em formação na área de Desenvolvimento de Sistemas e estou construindo minha trajetória no mundo da tecnologia. Tenho interesse especial em programação, bancos de dados e desenvolvimento web, com experiência adquirida ao longo da minha formação. Meu objetivo é aplicar na prática o que venho aprendendo em Python e HTML, enquanto continuo evoluindo e me desafiando em novos projetos.
+Em formação na área de Desenvolvimento de Sistemas e estou construindo minha trajetória no mundo da tecnologia. Tenho interesse especial em programação, bancos de dados e desenvolvimento web, com experiência adquirida ao longo da minha formação. Meu objetivo é aplicar na prática o que venho aprendendo em Python, Banco de dados, JavaScript, CSS e HTML, enquanto continuo evoluindo e me desafiando em novos projetos.
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-monfredini-6480692aa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/monfredini07_/)
